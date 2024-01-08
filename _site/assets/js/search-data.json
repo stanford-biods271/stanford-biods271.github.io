@@ -1,141 +1,141 @@
 {"0": {
     "doc": "Just the Class",
-    "title": "Just the Class",
-    "content": "Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for: . | announcements, | a course calendar, | a staff page, | and a weekly schedule. | . Just the Class is a template that extends the popular Just the Docs theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as: . | automatic navigation structure, | instant, full-text search and page indexing, | and a set of UI components and authoring utilities. | . ",
-    "url": "/just-the-class/",
+    "title": "BIODS 271 / CS 277: Foundation Models for Healthcare",
+    "content": "Course website . ",
+    "url": "/#biods-271--cs-277-foundation-models-for-healthcare",
     
-    "relUrl": "/"
+    "relUrl": "/#biods-271--cs-277-foundation-models-for-healthcare"
   },"1": {
     "doc": "Just the Class",
-    "title": "Getting Started",
-    "content": "Getting started with Just the Class is simple. | Create a new repository based on Just the Class. | Update _config.yml and README.md with your course information. Be sure to update the url and baseurl. | Configure a publishing source for GitHub Pages. Your course website is now live! | Edit and create .md Markdown files to add more content pages. | . Just the Class has been used by instructors at Stanford University (CS 161), UC Berkeley (Data 100), UC Santa Barbara (CSW8), Northeastern University (CS4530/5500), and Carnegie Mellon University (17-450/17-950). Share your course website and find more examples in the show and tell discussion! . Local development environment . Just the Class requires no special Jekyll plugins and can run on GitHub Pages’ standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on Testing your GitHub Pages site locally with Jekyll. ",
-    "url": "/just-the-class/#getting-started",
+    "title": "Just the Class",
+    "content": " ",
+    "url": "/",
     
-    "relUrl": "/#getting-started"
+    "relUrl": "/"
   },"2": {
     "doc": "Assignments",
     "title": "Homework Assignments",
     "content": "This course will involve two homework assignments. Details coming soon! . ",
-    "url": "/just-the-class/assignments/#homework-assignments",
+    "url": "/assignments/#homework-assignments",
     
     "relUrl": "/assignments/#homework-assignments"
   },"3": {
     "doc": "Assignments",
     "title": "Assignments",
     "content": " ",
-    "url": "/just-the-class/assignments/",
+    "url": "/assignments/",
     
     "relUrl": "/assignments/"
   },"4": {
     "doc": "Schedule",
     "title": "Calendar",
     "content": "The planned course schedule is provided below. Deadlines for homework assignments and project deliverables will be updated soon. ",
-    "url": "/just-the-class/calendar/#calendar",
+    "url": "/calendar/#calendar",
     
     "relUrl": "/calendar/#calendar"
   },"5": {
     "doc": "Schedule",
     "title": "Week 1",
     "content": "Jan 8 BackgroundCourse Overview &amp; Introduction to Foundation Models Jan 10 BackgroundSelf-Supervised Learning for Computer Vision ",
-    "url": "/just-the-class/calendar/#week-1",
+    "url": "/calendar/#week-1",
     
     "relUrl": "/calendar/#week-1"
   },"6": {
     "doc": "Schedule",
     "title": "Week 2",
     "content": "Jan 17 BackgroundIntroduction to Large Language Models ",
-    "url": "/just-the-class/calendar/#week-2",
+    "url": "/calendar/#week-2",
     
     "relUrl": "/calendar/#week-2"
   },"7": {
     "doc": "Schedule",
     "title": "Week 3",
     "content": "Jan 22 BackgroundCurrent Status of Large Language Models Jan 24 BackgroundVision-Language Models ",
-    "url": "/just-the-class/calendar/#week-3",
+    "url": "/calendar/#week-3",
     
     "relUrl": "/calendar/#week-3"
   },"8": {
     "doc": "Schedule",
     "title": "Week 4",
     "content": "Jan 29 Clinical NeedsClinical Needs for Foundation Models in Healthcare Jan 31 Clinical NeedsDatasets for Building Foundation Models for Healthcare ",
-    "url": "/just-the-class/calendar/#week-4",
+    "url": "/calendar/#week-4",
     
     "relUrl": "/calendar/#week-4"
   },"9": {
     "doc": "Schedule",
     "title": "Week 5",
     "content": "Feb 5 ApplicationsGenerative LLMs for Healthcare Applications Feb 7 ApplicationsLLMs for Healthcare in Industry ",
-    "url": "/just-the-class/calendar/#week-5",
+    "url": "/calendar/#week-5",
     
     "relUrl": "/calendar/#week-5"
   },"10": {
     "doc": "Schedule",
     "title": "Week 6",
     "content": "Feb 12 New MethodsLightweight Fine-Tuning of LLMs Feb 14 ApplicationsGenerative Vision-Language Models in Health ",
-    "url": "/just-the-class/calendar/#week-6",
+    "url": "/calendar/#week-6",
     
     "relUrl": "/calendar/#week-6"
   },"11": {
     "doc": "Schedule",
     "title": "Week 7",
     "content": "Feb 19 ApplicationsGenerative AI for Drug Discovery Feb 21 New Methods TBD (Guest Speaker) ",
-    "url": "/just-the-class/calendar/#week-7",
+    "url": "/calendar/#week-7",
     
     "relUrl": "/calendar/#week-7"
   },"12": {
     "doc": "Schedule",
     "title": "Week 8",
     "content": "Feb 28 Applications Retrieval-Augmented Generation ",
-    "url": "/just-the-class/calendar/#week-8",
+    "url": "/calendar/#week-8",
     
     "relUrl": "/calendar/#week-8"
   },"13": {
     "doc": "Schedule",
     "title": "Week 9",
     "content": "Mar 5 Opportunities Deployment Considerations Mar 7 Opportunities Image Compression Methods ",
-    "url": "/just-the-class/calendar/#week-9",
+    "url": "/calendar/#week-9",
     
     "relUrl": "/calendar/#week-9"
   },"14": {
     "doc": "Schedule",
     "title": "Week 10",
     "content": "Mar 12 Opportunities Safety, Ethics, and Regulation Mar 14 Project Presentations DueFinal presentations ",
-    "url": "/just-the-class/calendar/#week-10",
+    "url": "/calendar/#week-10",
     
     "relUrl": "/calendar/#week-10"
   },"15": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
-    "url": "/just-the-class/calendar/",
+    "url": "/calendar/",
     
     "relUrl": "/calendar/"
   },"16": {
     "doc": "Home",
     "title": "BIODS 271: Foundation Models for Healthcare",
     "content": " ",
-    "url": "/just-the-class/#biods-271-foundation-models-for-healthcare",
+    "url": "/#biods-271-foundation-models-for-healthcare",
     
     "relUrl": "/#biods-271-foundation-models-for-healthcare"
   },"17": {
     "doc": "Home",
     "title": "Stanford University, Winter 2024",
     "content": "Course Description . Generative AI and large-scale self-supervised foundation models are poised to have a profound impact on human decision making across occupations. Healthcare is one such area where such models have the capacity to impact patients, clinicians, and other care providers. In this course, we will explore the training, evaluation, and deployment of generative AI and foundation models, with a focus on addressing current and future medical needs. The course will cover models used in natural language processing, computer vision, and multi-modal applications. We will explore the intersection of models trained on non-healthcare domains and their adaptation to domain-specific problems, as well as healthcare-specific foundation models. Prerequisites . Familiarity with machine learning principles at the level of CS 229, 231N, or 224N . Time &amp; Location . Mon, Wed 3:00 PM - 4:20 PM at Alway Building, Room M112 . Instructors . Akshay Chaudhari . akshaysc@stanford.edu . Office Hours Coming soon! . James Zou . jamesz@stanford.edu . Office Hours Coming soon! . Tanveer Syeda-Mahmood . stf@us.ibm.com . Office Hours Coming soon! . TAs . Maya Varma . mvarma2@stanford.edu . Office Hours Coming soon! . Coursework . Coursework will be divided into the following categories: . | Class Participation (10%): Students are encouraged to attend lectures and participate actively by asking questions and offering comments. | Homework Assignments (30%): This course will include two homework assignments. Additional details coming soon. | Final Project (60%): Students will form teams and choose from one of the suggested projects or select their own project. Teams are expected to work on the research project throughout the second half of the quarter and produce conference-style papers. Each team will present the paper to the entire class at the end of the semester. Additional details coming soon. | . ",
-    "url": "/just-the-class/#stanford-university-winter-2024",
+    "url": "/#stanford-university-winter-2024",
     
     "relUrl": "/#stanford-university-winter-2024"
   },"18": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
-    "url": "/just-the-class/",
+    "url": "/",
     
     "relUrl": "/"
   },"19": {
     "doc": "Project",
     "title": "Project",
     "content": "This course will include a final project. Details coming soon! . ",
-    "url": "/just-the-class/project/",
+    "url": "/project/",
     
     "relUrl": "/project/"
   }

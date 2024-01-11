@@ -15,3 +15,5 @@ Jan 10
 : Suggested Reading: 
     - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
     - [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+: Coding Exercise: 
+    - [Autoencoder Demo](https://colab.research.google.com/drive/1VOCveViwkRpUGEiIquIWVaHAVOUtVNj5?usp=sharing)

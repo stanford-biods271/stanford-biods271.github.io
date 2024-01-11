@@ -10,3 +10,5 @@ Jan 8
 
 Jan 10
 : **Background**{: .label .label-blue }**Self-Supervised Learning for Computer Vision**
+: Lecture Material: 
+    - [Computer Vision](../assets/lectures/L2_vision.pptx)

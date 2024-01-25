@@ -4,6 +4,11 @@ title: Week 3
 
 Jan 22
 : **Background**{: .label .label-blue }**Current Status of Large Language Models**
+: Lecture Material: 
+    - [Health LLMs](../assets/lectures/L4_healthLLM.pptx)
+: Suggested Reading: 
+    - [Med-PaLM](https://www.nature.com/articles/s41586-023-06291-2)
+    - [PLIP](https://pubmed.ncbi.nlm.nih.gov/37592105/)
 
 Jan 24
 : **Background**{: .label .label-blue }**Vision-Language Models**

@@ -2,9 +2,9 @@
 title: Week 10
 ---
 
-Mar 12
+Mar 11
 : **Opportunities**{: .label .label-bluegreen } **Safety, Ethics, and Regulation**
 
-Mar 14
+Mar 13
 : **Project Presentations Due**{: .label .label-red }**Final presentations**
 

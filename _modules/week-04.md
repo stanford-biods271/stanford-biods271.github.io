@@ -5,7 +5,7 @@ title: Week 4
 Jan 29
 : **Clinical Needs**{: .label .label-purple }**Clinical Needs for Foundation Models in Healthcare**
 : Lecture Material: 
-    - [Clinical Needs, Part 1](../assets/lectures/L6_clinicalneeds1.pdf)
+    - [Clinical Needs, Part 1](../assets/lectures/L6_clinicalneeds1.pptx)
     - [Clinical Needs, Part 2](../assets/lectures/L6_clinicalneeds2.pdf)
 : Suggested Reading: 
     - [LLMs are few-shot clinical clinical information extractors](https://arxiv.org/abs/2205.12689)

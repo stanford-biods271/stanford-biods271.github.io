@@ -12,6 +12,11 @@ Feb 12
 
 Feb 14
 : **Applications**{: .label .label-green }**Generative Vision-Language Models in Health**
+: Lecture Material: 
+    - [Generative VLMs](../assets/lectures/L11_generativeVLM.pptx)
+: Suggested Reading: 
+    - [Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+    - [RoentGen: Vision-Language Foundation Model for Chest X-ray Generation](https://arxiv.org/abs/2211.12737)
 
 Feb 16
 : **Homework #1 Due**{: .label .label-red }

@@ -3,6 +3,10 @@ title: Week 8
 ---
 Feb 26
 : **Applications**{: .label .label-green }**Generative AI for Drug Discovery**
+: Lecture Material: 
+    - [AI for Drug Discovery](../assets/lectures/L13_drugdiscovery.pdf)
+: Suggested Reading: 
+    - [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)
 
 Feb 28
 : **Applications**{: .label .label-green } **Retrieval-Augmented Generation**
